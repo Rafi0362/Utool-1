@@ -1,9 +1,7 @@
-{ 
-"showDialog": True, 
-"latestVersionCode": 2, 
-"latestVersionName": "1.1", 
-"title": "UPDATE AVAILABLE", 
-"message": "Get the Newest Features And Improvements.", 
-"UpdateButtonText": "UPDATE NOW", 
-"UpdateButtonUrl": "https://t.me/+KKG-nbTFGYJiODll" 
+{
+  "latestVersionCode": 9999999999,
+  "latestVersionName": "1000000",
+  "updateUrl": "https://t.me/+KKG-nbTFGYJiODll",
+  "releaseNotes": "• New features added!\n• Performance improvements.\n• Bug fixes and stability enhancements.",
+  "forceUpdate": false
 }
